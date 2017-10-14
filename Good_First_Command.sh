@@ -16,7 +16,8 @@ WroteFile(){
  mkdir Good_First_Command
  fi
  cd Good_First_Command
- mkdir Make && cd Make
+ mkdir Make 
+ cd Make
  echo "its working" > 123 && cat 123
  cd ../ && cd ../
 }
