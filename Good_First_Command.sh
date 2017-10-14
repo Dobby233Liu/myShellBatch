@@ -22,7 +22,7 @@ WroteFile(){
 }
 Debugger(){
 if [ -d "./Good_First_Command" ]; then 
-rm -rf ~./Good_First_Command/
+rm -rf ./Good_First_Command/
 else
 exit "You're in big trouble!"
 fi
