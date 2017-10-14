@@ -21,10 +21,9 @@ WroteFile(){
  cd ../ && cd ../
 }
 Debugger(){
- 
-rm -rf ./Good_First_Command/
-
-
+ #1
+rm -rf Good_First_Command
+#1
 }
 
 ### ------------------------
