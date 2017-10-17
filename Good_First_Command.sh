@@ -20,13 +20,8 @@ WroteFile(){
  mkdir Make 
  fi
  cd Make
- echo "its working" > 123 && cat 123
+ echo "It's working! Your OS is great! " > 123 && cat 123
  cd ../ && cd ../
-}
-Debugger(){
- #1
-rm -rf Good_First_Command
-#1
 }
 
 ### ------------------------
