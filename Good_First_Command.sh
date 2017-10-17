@@ -34,4 +34,4 @@ rm -rf Good_First_Command
 ### ------------------------
 
 WroteFile
-exit "Finish"
+exit
